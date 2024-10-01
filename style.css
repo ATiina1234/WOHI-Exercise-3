@@ -1,0 +1,41 @@
+body {
+ background-color: white;   
+}
+
+h1{
+    color: darkgreen;
+    font-style: italic;
+    text-align: left;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+h2{
+    color: green;
+    font-style: italic;
+    font-size: larger;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h3{
+    color: green;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+p{
+    text-align: left;
+    font-size: medium;
+    color: green;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+a:link{
+    color: purple;
+}
+
+a:hover{
+    color: hotpink;
+}
+
