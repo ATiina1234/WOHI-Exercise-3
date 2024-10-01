@@ -39,3 +39,7 @@ a:hover{
     color: hotpink;
 }
 
+a::grammar-error{
+text-decoration: underline;
+}
+

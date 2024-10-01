@@ -1,4 +1,2 @@
 # WOHI-Exercise-3
-#Tiina Ahtonen
-#2024
-
+#Tiina Ahtonen 2024
